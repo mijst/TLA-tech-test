@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "manufacturer": "Ford",
+    "name": "Mustang Mach-E Estate Electric",
+    "batterycapacityKwh": 72,
+    "rangeMiles": 292,
+    "chargetimeMinutes": 1200,
+    "seats": 5,
+    "cost": 50000,
+    "colors": [
+      "Crimson",
+      "HotPink",
+      "DarkKhaki"
+    ],
+    "thumbnailImage": "https://tla-image.azureedge.net/api/v1/image/vehicle/Car/ford/mustang-mach-e/1/132679/640",
+    "mainImage": "https://tla-image.azureedge.net/api/v1/image/vehicle/Car/Ford/Ford/2/118470/1256"
+  },
+  {
+    "id": 2,
+    "manufacturer": "Mercedes-Benz",
+    "name": "Mercedes-Benz EQS Saloon Electric",
+    "batterycapacityKwh": 108.4,
+    "rangeMiles": 452,
+    "chargetimeMinutes": 1800,
+    "seats": 5,
+    "cost": 105000,
+    "colors": [
+      "Magenta",
+      "LimeGreen",
+      "Goldenrod"
+    ],
+    "thumbnailImage": "https://www.carkeys.co.uk/media/35703/mercedes_eqs.jpg?anchor=center&mode=crop&width=1265&height=&rnd=132979610090000000&format=webp",
+    "mainImage": "https://www.carkeys.co.uk/media/35703/mercedes_eqs.jpg?anchor=center&mode=crop&width=1265&height=&rnd=132979610090000000&format=webp"
+  },
+  {
+    "id": 3,
+    "manufacturer": "BMW",
+    "name": "i7 Saloon Electric",
+    "batterycapacityKwh": 105,
+    "rangeMiles": 378,
+    "chargetimeMinutes": 1700,
+    "seats": 5,
+    "cost": 101765,
+    "colors": [
+      "AntiqueWhite",
+      "Black",
+      "Navy",
+      "RoyalBlue"
+    ],
+    "thumbnailImage": "https://tla-image.azureedge.net/api/v1/image/vehicle/Car/bmw/i7/1/132665/640",
+    "mainImage": "https://tla-image.azureedge.net/api/v1/image/vehicle/Car/BMW/BMW/2/126934/1256"
+  },
+  {
+    "id": 4,
+    "manufacturer": "Lotus",
+    "name": "Evija",
+    "batterycapacityKwh": 93,
+    "rangeMiles": 248,
+    "chargetimeMinutes": 1550,
+    "seats": 2,
+    "cost": 2400000,
+    "colors": [
+      "Yellow",
+      "OrangeRed",
+      "HotPink"
+    ],
+    "thumbnailImage": "https://tla-image.azureedge.net/api/v1/image/vehicle/Car/Lotus/Lotus/2/132520/640",
+    "mainImage": "https://tla-image.azureedge.net/api/v1/image/vehicle/Car/Lotus/Lotus/2/132520/1256"
+  },
+  {
+    "id": 5,
+    "manufacturer": "Volvo",
+    "name": "EX90 Estate",
+    "batterycapacityKwh": 111,
+    "rangeMiles": 363,
+    "chargetimeMinutes": 1800,
+    "seats": 7,
+    "cost": 96250,
+    "colors": [
+      "DarkGreen",
+      "DarkBlue",
+      "DarkGray"
+    ],
+    "thumbnailImage": "https://www.carkeys.co.uk/media/36360/308860_305716_volvo_ex90.jpg?anchor=center&mode=crop&width=1256&height=&rnd=133250785860000000&format=webp",
+    "mainImage": "https://www.carkeys.co.uk/media/36360/308860_305716_volvo_ex90.jpg?anchor=center&mode=crop&width=1256&height=&rnd=133250785860000000&format=webp"
+  }
+]

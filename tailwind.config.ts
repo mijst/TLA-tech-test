@@ -16,5 +16,8 @@ const config: Config = {
     },
   },
   plugins: [],
+  paths: {
+    "@/*": ["./*"]
+  }
 };
 export default config;
